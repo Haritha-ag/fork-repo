@@ -101,9 +101,9 @@ MATLAB • Simulink • ESP8266 • AutoCad • IoT
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Haritha A G &show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Haritha-ag &show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haritha A G &layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haritha-ag &layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -113,7 +113,7 @@ MATLAB • Simulink • ESP8266 • AutoCad • IoT
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Haritha A G &theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Haritha-ag &theme=tokyonight"/>
 
 </p>
 
@@ -121,7 +121,7 @@ MATLAB • Simulink • ESP8266 • AutoCad • IoT
 
 # 📈 Contribution Graph
 
-[![Haritha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Haritha A G &theme=tokyo-night)](https://github.com/Haritha A G)
+[![Haritha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Haritha-ag &theme=tokyo-night)](https://github.com/Haritha-ag)
 
 ---
 
@@ -155,7 +155,7 @@ MATLAB • Simulink • ESP8266 • AutoCad • IoT
 
 ## 👀 Visitor Count
 
-![](https://komarev.com/ghpvc/?username=Haritha A G &color=blue)
+![](https://komarev.com/ghpvc/?username=Haritha-ag &color=blue)
 
 ---
 
