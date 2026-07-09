@@ -77,8 +77,8 @@ Features
 # 💻 Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,arduino,autocad"/>
+  
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,arduino" />
 
 </p>
 
